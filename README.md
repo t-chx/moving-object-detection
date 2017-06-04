@@ -71,4 +71,6 @@ Logistic Regression in selected dataset
 ### 2.	Sampler
 ### 3.	Digital
 ### 4.	Distance
-### 5.	Number of Person
+### 5.	Number of Person  
+
+All the Dataset can be downloaded [here](http://pan.baidu.com/s/1dEDN6AP)
